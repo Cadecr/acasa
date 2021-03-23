@@ -5,6 +5,7 @@ import HomeSearch from './pages/homeSearch';
 import Login from './pages/login';
 import MyAccount from './pages/my-account';
 import CreateAccount from './pages/create-account';
+import BurgerMenu from './components/burger';
 
 export default class App extends React.Component {
   render() {

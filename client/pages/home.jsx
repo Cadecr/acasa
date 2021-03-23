@@ -1,4 +1,5 @@
 import React from 'react';
+// import SideMenu from '../components/sidemenu';
 
 export default function Home(props) {
   return (
